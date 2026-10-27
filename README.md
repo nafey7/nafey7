@@ -20,7 +20,7 @@ Before that: an AI marketing platform serving 40+ tenants (FastAPI, CrewAI, RAG 
 | Project | What it is | Built with |
 | --- | --- | --- |
 | [**Voya**](https://github.com/nafey7/Voya) | AI travel agent: a Gemini chat plans the trip, searches flights and hotels, and builds a day-by-day itinerary on a map | React, FastAPI, MongoDB, Terraform, Playwright |
-| [**prescribe-v2**](https://github.com/nafey7/prescribe-v2) | Medical AI chat: a LangGraph agent reads each patient's record to answer questions, with patient and doctor portals | LangGraph, FastAPI, React, MongoDB, Docker |
+| [**prescribe**](https://github.com/nafey7/prescribe) | Medical AI chat: a LangGraph agent reads each patient's record to answer questions, with patient and doctor portals | LangGraph, FastAPI, React, MongoDB, Docker |
 | [**personal-artifacts**](https://github.com/nafey7/personal-artifacts) | Publish self-contained HTML pages with end-to-end encryption, projects and a CLI | Next.js, MongoDB, Web Crypto |
 | [**serp-engine**](https://github.com/nafey7/serp-engine) | Google results scraper: fast HTTP first, real browser when needed, AI Overview capture and proxy rotation | Python, Playwright |
 | [**rhythmatch-v2**](https://github.com/nafey7/rhythmatch-v2) | Dating app with profiles, a discover feed, matches and messaging | Next.js 16, React 19, TypeScript, MongoDB |
